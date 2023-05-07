@@ -60,6 +60,9 @@ The following services are available on the Yggdrasil v0.4 network, courtesy of 
 - [Yggdrasil Search Portal](http://[201:23b4:991a:634d:8359:4521:5576:15b7]/yggo) - Intranet crawler and [open source](https://github.com/d47081/YGGo) search engine.
   - `http://[201:23b4:991a:634d:8359:4521:5576:15b7]/yggo/`
 
+- [SearXNG](http://[301:f886:4ddc:dfdd::1]) - Privacy-respecting [open source](https://github.com/searxng/searxng) meta-search engine.  Configured to search Google, Bing, Yahoo and Qwant (you can change this in your profile).  Search queries are passed-through hidden proxies inside Yggdrasil.
+  - `http://[301:f886:4ddc:dfdd::1]`
+
 
 ----
 
